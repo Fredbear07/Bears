@@ -1,2 +1,2 @@
 # Bears
-Just bears
+Just Bears
